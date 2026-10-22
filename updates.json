@@ -37,6 +37,15 @@
               "strict_min_version": "142.0"
             }
           }
+        },
+        {
+          "version": "2.9.2",
+          "update_link": "https://raw.githubusercontent.com/ZombieHunter512/gig-tracker-updates/main/releases/v2.9.2/258065b8c9f94cec8cd6-2.9.2.xpi",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "142.0"
+            }
+          }
         }
       ]
     }
