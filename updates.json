@@ -1,0 +1,35 @@
+{
+  "addons": {
+    "gig-tracker@zombiehunter.github.io": {
+      "updates": [
+        {
+          "version": "2.8.17",
+          "update_link": "https://raw.githubusercontent.com/ZombieHunter512/gig-tracker-updates/main/releases/v2.8.17/258065b8c9f94cec8cd6-2.8.17.xpi",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "142.0"
+            }
+          }
+        },
+        {
+          "version": "2.8.18",
+          "update_link": "https://raw.githubusercontent.com/ZombieHunter512/gig-tracker-updates/main/releases/v2.8.18/258065b8c9f94cec8cd6-2.8.18.xpi",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "142.0"
+            }
+          }
+        },
+        {
+          "version": "2.8.19",
+          "update_link": "https://raw.githubusercontent.com/ZombieHunter512/gig-tracker-updates/main/releases/v2.8.19/258065b8c9f94cec8cd6-2.8.19.xpi",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "142.0"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
